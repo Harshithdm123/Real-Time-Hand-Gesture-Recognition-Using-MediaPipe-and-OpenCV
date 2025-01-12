@@ -26,6 +26,7 @@ cd hand-gesture-recognition
 Step 2: Install Dependencies
 
 pip install opencv-python mediapipe numpy
+
 python3 app.py
 
 ## How to Run the Project
